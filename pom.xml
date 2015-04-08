@@ -21,7 +21,7 @@
     <groupId>org.jvnet.hudson.plugins</groupId>
 	<artifactId>sample</artifactId>
 	<packaging>hpi</packaging>
-        <version>1.31-SNAPSHOT</version>
+        <version>1.31</version>
 	<name>Jenkins Sample Plugin</name>
 	<description>A Build status publisher that notifies messages</description>
     <url>https://wiki.jenkins-ci.org/display/JENKINS/Sample+Plugin</url>
