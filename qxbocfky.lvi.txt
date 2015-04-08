@@ -1,0 +1,39 @@
+﻿Merge branch 'master' of https://github.com/anithavivedhan/sample
+
+Conflicts:
+	Logging.txt
+	pom.xml
+	target/classes/jenkins/plugins/sample/HipChatNotifier.stapler
+	target/classes/jenkins/plugins/sample/HipChatNotifier/HipChatJobProperty.javadoc
+	target/classes/jenkins/plugins/sample/HipChatNotifier/HipChatJobProperty.stapler
+	target/maven-archiver/pom.properties
+	target/sample.jar
+	target/sample/WEB-INF/licenses.xml
+	target/surefire-reports/TEST-jenkins.plugins.sample.StandardHipChatServiceTest.xml
+	target/surefire-reports/jenkins.plugins.sample.StandardHipChatServiceTest.txt
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   Logging.txt
+#	modified:   pom.xml
+#	new file:   pom.xml.releaseBackup
+#	new file:   release.properties
+#	modified:   target/classes/jenkins/plugins/sample/HipChatNotifier.stapler
+#	modified:   target/classes/jenkins/plugins/sample/HipChatNotifier/HipChatJobProperty.javadoc
+#	modified:   target/classes/jenkins/plugins/sample/HipChatNotifier/HipChatJobProperty.stapler
+#	modified:   target/maven-archiver/pom.properties
+#	modified:   target/sample/WEB-INF/licenses.xml
+#	modified:   target/surefire-reports/TEST-jenkins.plugins.sample.StandardHipChatServiceTest.xml
+#	modified:   target/surefire-reports/jenkins.plugins.sample.StandardHipChatServiceTest.txt
+#
+
